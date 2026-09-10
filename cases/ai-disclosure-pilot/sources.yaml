@@ -1,5 +1,89 @@
-sources: []
+sources:
+  - source_id: SRC-ID-AI-ETHICS-2023
+    title: Surat Edaran Menteri Komunikasi dan Informatika Nomor 9 Tahun 2023 tentang Etika Kecerdasan Artifisial
+    publisher: Kementerian Komunikasi dan Digital Republik Indonesia, JDIH
+    url: https://jdih.komdigi.go.id/produk_hukum/view/id/883/
+    publication_date: "2023-12-19"
+    retrieved_at: "2026-09-10"
+    source_type: regulation
+    jurisdiction: Indonesia
+    authority_note: Ministerial ethical guidance, not an arts-grant rule or comprehensive AI statute.
+  - source_id: SRC-ID-COPYRIGHT-2014
+    title: Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta
+    publisher: Badan Pemeriksa Keuangan Republik Indonesia, Database Peraturan
+    url: https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun2014
+    publication_date: "2014-10-16"
+    retrieved_at: "2026-09-10"
+    source_type: regulation
+    jurisdiction: Indonesia
+    authority_note: Current-status page for Indonesia's Copyright Law, not a legal opinion on generative AI.
+  - source_id: SRC-CA-GRANT-GUIDANCE-2025
+    title: Guidance on AI in grant applications
+    publisher: Canada Council for the Arts
+    url: https://canadacouncil.ca/funding/resources/guidance-on-ai-in-grant-applications
+    publication_date: 2025
+    retrieved_at: "2026-09-10"
+    source_type: institutional_record
+    jurisdiction: Canada
+    authority_note: Operational arts-funder guidance; comparative rather than binding in Jakarta.
+  - source_id: SRC-AU-GENAI-PRINCIPLES-2025
+    title: Creative Australia Principles — Generative Artificial Intelligence and creative work
+    publisher: Creative Australia
+    url: https://creative.gov.au/creative-australia-principles-generative-artificial-intelligence-and-creative-work
+    publication_date: 2025
+    retrieved_at: "2026-09-10"
+    source_type: institutional_record
+    jurisdiction: Australia
+    authority_note: National arts-body principles; comparative rather than binding in Jakarta.
+  - source_id: SRC-AU-PUBLISHING-FUND-2026
+    title: Australian Publishing and Promotion Fund 2026–27
+    publisher: Creative Australia
+    url: https://creative.gov.au/investments-opportunities/australian-publishing-and-promotion-fund-2026-27
+    publication_date: 2026
+    retrieved_at: "2026-09-10"
+    source_type: institutional_record
+    jurisdiction: Australia
+    authority_note: Programme-specific funding rule, not a universal agency policy.
+  - source_id: SRC-UNESCO-ARTISTS-SURVEY-2025
+    title: Survey to Artists on MONDIACULT Declaration Follow-Up Actions — Findings
+    publisher: UNESCO
+    url: https://www.unesco.org/sites/default/files/medias/fichiers/2025/02/UNESCO%20Survey%20to%20ARTISTS%20on%20MONDIACULT%20Declaration%20Follow-Up%20Actions%20Findings.pdf
+    publication_date: 2025
+    retrieved_at: "2026-09-10"
+    source_type: research
+    jurisdiction: International
+    authority_note: Survey evidence with country and sample limitations; not representative of Jakarta artists.
+  - source_id: SRC-UNESCO-CULTURAL-POLICY-2026
+    title: Global Report on Cultural Policies, Chapter 2 — Leveraging digital technologies
+    publisher: UNESCO
+    url: https://www.unesco.org/en/culture/global-report/global-report-cultural-policies/chapter-2
+    publication_date: 2026
+    retrieved_at: "2026-09-10"
+    source_type: research
+    jurisdiction: International
+    authority_note: Global synthesis; does not prescribe a Jakarta grant mechanism.
+  - source_id: SRC-EU-AI-ACT-2024
+    title: Regulation (EU) 2024/1689 — Artificial Intelligence Act
+    publisher: Official Journal of the European Union
+    url: https://eur-lex.europa.eu/eli/reg/2024/1689/oj
+    publication_date: "2024-06-13"
+    retrieved_at: "2026-09-10"
+    source_type: regulation
+    jurisdiction: European Union
+    authority_note: Foreign legal comparator; not applicable law in Jakarta.
+  - source_id: SRC-USCO-AI-REPORT-2025
+    title: Copyright and Artificial Intelligence — Part 2, Copyrightability
+    publisher: United States Copyright Office
+    url: https://www.copyright.gov/ai/
+    publication_date: "2025-01-29"
+    retrieved_at: "2026-09-10"
+    source_type: government_data
+    jurisdiction: United States
+    authority_note: Foreign copyright analysis; not an Indonesian legal conclusion.
 
 research_status:
-  state: not_started
-  note: Candidate sources must be registered and reviewed before deliberation.
+  state: candidate_pack_complete
+  assembled_at: "2026-09-10"
+  assembled_by: Codex research process
+  human_review_required: true
+  note: Admission remains pending human review.

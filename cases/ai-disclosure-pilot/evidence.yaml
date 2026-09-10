@@ -1,8 +1,207 @@
-evidence: []
+evidence:
+  - evidence_id: EV-001
+    source_id: SRC-ID-AI-ETHICS-2023
+    claim: Indonesia's 2023 AI ethics circular addresses AI consultation, analysis, programming, and use by relevant businesses and public or private electronic-system operators.
+    excerpt_or_data: Scope and intended addressees in sections 2, 3, and 5.
+    context: National ethical guidance relevant to a hypothetical publicly administered programme.
+    date: "2023-12-19"
+    geography: Indonesia
+    reliability: high
+    limitations: It is not an arts-funding policy and creates no express grant-applicant disclosure form.
+  - evidence_id: EV-002
+    source_id: SRC-ID-AI-ETHICS-2023
+    claim: The circular identifies inclusivity, transparency, humanity, security, accessibility, accountability, personal-data protection, sustainability, and intellectual-property protection as AI ethics values.
+    excerpt_or_data: Section 6.2.
+    context: Indonesian policy grounding for evaluating disclosure.
+    date: "2023-12-19"
+    geography: Indonesia
+    reliability: high
+    limitations: These values do not determine disclosure design or proportionality.
+  - evidence_id: EV-003
+    source_id: SRC-ID-AI-ETHICS-2023
+    claim: The circular says AI-produced public information should be credible and accountable and AI should support human activity rather than determine policies or decisions concerning humanity.
+    excerpt_or_data: Sections 6.2 and 6.3.
+    context: Supports human accountability and decision-support boundaries.
+    date: "2023-12-19"
+    geography: Indonesia
+    reliability: high
+    limitations: Application to grant applicants is interpretation, not an express rule.
+  - evidence_id: EV-004
+    source_id: SRC-ID-COPYRIGHT-2014
+    claim: Indonesia's Copyright Law covers works in science, art, and literature and is listed as in force by the BPK regulation database.
+    excerpt_or_data: Official status page and abstract.
+    context: Existing copyright duties remain relevant to funded art.
+    date: "2026-09-10"
+    geography: Indonesia
+    reliability: high
+    limitations: Does not resolve AI authorship, training data, imitation, or liability.
+  - evidence_id: EV-005
+    source_id: SRC-CA-GRANT-GUIDANCE-2025
+    claim: Canada Council asks applicants using AI in a project to disclose how it will be used, including limitations and data or training sources.
+    excerpt_or_data: General principles, transparency item.
+    context: Direct operational arts-funder precedent.
+    date: 2025
+    geography: Canada
+    reliability: high
+    limitations: Canadian institutional and legal context differs from Jakarta.
+  - evidence_id: EV-006
+    source_id: SRC-CA-GRANT-GUIDANCE-2025
+    claim: Canada Council permits supportive uses such as outlining, grammar, plain language, and translation while retaining applicant responsibility for accuracy, relevance, and originality.
+    excerpt_or_data: Section 2.
+    context: Disclosure need not equate all assistance or prohibit accessibility uses.
+    date: 2025
+    geography: Canada
+    reliability: high
+    limitations: Does not define material use for this pilot.
+  - evidence_id: EV-007
+    source_id: SRC-CA-GRANT-GUIDANCE-2025
+    claim: For funded projects involving AI in creation, curation, or dissemination, Canada Council asks applicants to describe AI's role and impacts, address fairness, bias, privacy, authorship, and consent, ensure rights compliance, and acknowledge contributions.
+    excerpt_or_data: Section 3.
+    context: Practical disclosure-field precedent.
+    date: 2025
+    geography: Canada
+    reliability: high
+    limitations: Compliance language depends on Canadian programme and law.
+
+  - evidence_id: EV-008
+    source_id: SRC-CA-GRANT-GUIDANCE-2025
+    claim: Canada Council keeps assessment and funding recommendations human-led and prohibits peer assessors from using AI in assessment.
+    excerpt_or_data: Section 4.
+    context: Separates applicant disclosure from automated decision-making.
+    date: 2025
+    geography: Canada
+    reliability: high
+    limitations: The pilot question concerns applicants, not assessor AI use.
+  - evidence_id: EV-009
+    source_id: SRC-CA-GRANT-GUIDANCE-2025
+    claim: Canada Council recognizes that AI can reduce application workload and barriers while raising privacy, IP, bias, and authentic-voice risks.
+    excerpt_or_data: Purpose and application guidance.
+    context: Supports proportionality rather than a blanket ban.
+    date: 2025
+    geography: Canada
+    reliability: high
+    limitations: Benefits and harms are not quantified.
+  - evidence_id: EV-010
+    source_id: SRC-AU-GENAI-PRINCIPLES-2025
+    claim: Creative Australia's principles centre fairness, transparency, consent, human creativity, ethical engagement, and creative-sector participation in AI policy.
+    excerpt_or_data: Agency principles paper.
+    context: Arts-sector comparator spanning creative practices.
+    date: 2025
+    geography: Australia
+    reliability: high
+    limitations: Normative principles, not a complete compliance process.
+  - evidence_id: EV-011
+    source_id: SRC-AU-GENAI-PRINCIPLES-2025
+    claim: Creative Australia states that AI-generated creative output should be clearly identified while supporting innovation and human creativity.
+    excerpt_or_data: Transparency and innovation principles.
+    context: Supports disclosure while preserving experimentation.
+    date: 2025
+    geography: Australia
+    reliability: high
+    limitations: Does not define threshold, timing, enforcement, or exceptions.
+  - evidence_id: EV-012
+    source_id: SRC-AU-PUBLISHING-FUND-2026
+    claim: One Creative Australia publishing fund excludes books wholly or substantially created with generative AI and requires applicants to identify where AI assisted creation or publication.
+    excerpt_or_data: Programme eligibility criteria.
+    context: Concrete programme-specific threshold and disclosure duty.
+    date: 2026
+    geography: Australia
+    reliability: high
+    limitations: Applies to publishing, not all disciplines or programmes.
+  - evidence_id: EV-013
+    source_id: SRC-UNESCO-ARTISTS-SURVEY-2025
+    claim: In the survey's Spain subset, 70–80% of respondents expected consent, compensation, and credit when their work was used for AI training or generation.
+    excerpt_or_data: Figures 61–62 and text, pages 65–66.
+    context: Artist expectations concerning training and provenance.
+    date: 2025
+    geography: Spain
+    reliability: medium
+    limitations: Country and sample limits; not Jakarta preference evidence.
+  - evidence_id: EV-014
+    source_id: SRC-UNESCO-ARTISTS-SURVEY-2025
+    claim: Respondents in the Spain subset raised concerns about originality, cultural diversity, unconsented use, displacement, income, and devaluation.
+    excerpt_or_data: AI findings, pages 65–67.
+    context: Harms a disclosure may surface but not necessarily prevent.
+    date: 2025
+    geography: Spain
+    reliability: medium
+    limitations: Perceptions are not causal estimates or Jakarta evidence.
+
+  - evidence_id: EV-015
+    source_id: SRC-UNESCO-ARTISTS-SURVEY-2025
+    claim: Surveyed artists also acknowledged potential AI use as a research tool, though the reported emphasis was on regulation and human creativity.
+    excerpt_or_data: Narrative finding, page 65.
+    context: Preserves a non-binary view of AI use.
+    date: 2025
+    geography: Spain
+    reliability: medium
+    limitations: The positive view is not quantified in the cited passage.
+  - evidence_id: EV-016
+    source_id: SRC-UNESCO-CULTURAL-POLICY-2026
+    claim: UNESCO reports AI-related challenges for cultural diversity, artist protection, IP, and cultural-data governance while digital access and skills remain unequal.
+    excerpt_or_data: Chapter 2 key takeaways.
+    context: Disclosure should be assessed alongside equity and access.
+    date: 2026
+    geography: International
+    reliability: high
+    limitations: Does not measure effects of a Jakarta disclosure rule.
+  - evidence_id: EV-017
+    source_id: SRC-UNESCO-CULTURAL-POLICY-2026
+    claim: UNESCO reports that 80% of reporting member states have digital-literacy programmes for creation and experimentation.
+    excerpt_or_data: Chapter 2 key figure.
+    context: Capacity-building commonly accompanies digital cultural policy.
+    date: 2026
+    geography: International
+    reliability: medium
+    limitations: Does not establish effectiveness or Jakarta readiness.
+  - evidence_id: EV-018
+    source_id: SRC-EU-AI-ACT-2024
+    claim: The EU AI Act has transparency duties for specified AI-generated or manipulated content and narrows disclosure for evidently artistic or fictional deepfake content so it does not hamper display or enjoyment.
+    excerpt_or_data: Recital 134 and Article 50(4).
+    context: Disclosure can be tailored to artistic freedom and context.
+    date: "2024-06-13"
+    geography: European Union
+    reliability: high
+    limitations: Foreign law with a narrower deepfake scope than this pilot.
+  - evidence_id: EV-019
+    source_id: SRC-EU-AI-ACT-2024
+    claim: The EU framework distinguishes provider marking duties from deployer disclosure duties in specified contexts.
+    excerpt_or_data: Recitals 133–134 and Article 50.
+    context: Applicants may not control model-level provenance information.
+    date: "2024-06-13"
+    geography: European Union
+    reliability: high
+    limitations: Foreign architecture is not directly transferable to Jakarta.
+  - evidence_id: EV-020
+    source_id: SRC-USCO-AI-REPORT-2025
+    claim: The U.S. Copyright Office concluded that AI-assisted work is not automatically excluded from copyright, while protection depends on sufficient human-authored expression rather than prompting alone.
+    excerpt_or_data: Part 2 release summary.
+    context: Supports distinguishing assistive and materially expressive uses.
+    date: "2025-01-29"
+    geography: United States
+    reliability: high
+    limitations: U.S. analysis is not Indonesian law.
+  - evidence_id: EV-021
+    source_id: SRC-USCO-AI-REPORT-2025
+    claim: The U.S. Copyright Office treated digital replicas, output copyrightability, and training uses as separate report questions.
+    excerpt_or_data: AI initiative report structure.
+    context: A disclosure form can separate identity imitation, output, and input concerns.
+    date: 2025
+    geography: United States
+    reliability: high
+    limitations: Analytical aid, not a grant-policy prescription.
 
 evidence_pack:
   shared_across_committees: true
   committee_private_research_allowed: false
+  candidate_items: 21
   review_status: pending
   reviewer: TBD
   reviewed_at: TBD
+  unresolved_gaps:
+    - Direct consultation with Jakarta artists and cultural workers across all six disciplines
+    - Existing Jakarta cultural-grant application and reporting mechanics
+    - Applicant accessibility and administrative-burden testing
+    - A locally appropriate definition of material generative-AI use
+    - Enforcement, correction, appeal, and proportional-remedy design
+    - Treatment of confidential tools, trade secrets, and inaccessible training-data information
