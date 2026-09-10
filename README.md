@@ -1,3 +1,5 @@
+![Synthetic Arts Council framework: policy question, shared evidence, discipline committees, deliberation, and transparent recommendation](assets/synthetic-arts-council-cover.png)
+
 # Synthetic Arts Council — v0.1
 
 Synthetic Arts Council is an open-source experiment exploring how AI agents can support evidence-based decision-making in arts councils and cultural institutions.
