@@ -1,0 +1,63 @@
+{
+  "committee": "music",
+  "position": "support_with_conditions",
+  "evidence": [
+    "EV-002",
+    "EV-004",
+    "EV-005",
+    "EV-006",
+    "EV-007",
+    "EV-009",
+    "EV-010",
+    "EV-011",
+    "EV-013",
+    "EV-014",
+    "EV-015",
+    "EV-016",
+    "EV-018",
+    "EV-019",
+    "EV-020",
+    "EV-021"
+  ],
+  "interpretation": [
+    "Transparency, accountability, accessibility, sustainability, and intellectual-property protection provide an Indonesian ethical basis for considering disclosure, but they do not themselves define a grant rule or a proportionate threshold (EV-002).",
+    "Operational arts-funder precedent shows that applicants can be asked to describe AI's role, limitations, impacts, training or data sources where known, rights, consent, and acknowledgement without treating all AI assistance as equivalent (EV-005, EV-006, EV-007).",
+    "For music, disclosure should distinguish supportive uses from uses that materially shape artistic expression, creation, curation, dissemination, authorship, voice or identity imitation, and rights-related inputs; the evidence supports these distinctions analytically but does not establish a Jakarta-specific definition (EV-006, EV-007, EV-020, EV-021).",
+    "Artist concerns about consent, credit, income, originality, cultural diversity, displacement, and devaluation make provenance and contribution relevant to artist welfare and cultural value, while the same evidence also recognizes AI as a possible research tool (EV-013, EV-014, EV-015).",
+    "A narrowly designed disclosure can preserve artistic freedom and experimentation: comparator evidence supports clear identification while also tailoring disclosure so artistic display and enjoyment are not unnecessarily hampered (EV-010, EV-011, EV-018).",
+    "Applicants may not control or be able to obtain model-level provenance and training information, because provider and user responsibilities can differ; disclosure should therefore be limited to information reasonably known or accessible to the applicant (EV-019).",
+    "Existing Indonesian copyright duties remain relevant, but the frozen pack does not resolve AI authorship, training data, imitation, or liability under Indonesian law (EV-004).",
+    "Unequal digital access and skills mean a disclosure requirement could create unequal administrative burdens unless accompanied by accessible guidance and support (EV-009, EV-016)."
+  ],
+  "stakeholders_considered": [
+    "musicians, composers, performers, producers, recording engineers, and other music workers",
+    "grant applicants, including collectives and small or independent practices",
+    "grant assessors and programme administrators",
+    "audiences and participating communities",
+    "rights holders, including creators whose works, performances, or identities may be implicated",
+    "music educators, students, and community music organisations",
+    "venues, presenters, labels, distributors, and commissioning partners",
+    "generative-AI tool and platform providers"
+  ],
+  "concerns": [
+    "An undefined term such as material use could produce inconsistent declarations and assessment across composition, performance, recording, production, promotion, translation, and accessibility workflows.",
+    "Overbroad disclosure could stigmatize legitimate experimentation or routine assistive uses and chill artistic freedom.",
+    "Requiring applicants to certify inaccessible training-data or model provenance information would impose obligations they may be unable to satisfy.",
+    "Disclosure alone does not prevent unconsented imitation, rights infringement, cultural harm, labour displacement, or income loss.",
+    "A complex form or punitive response could disproportionately burden independent artists, disabled applicants, applicants with limited digital literacy, and smaller organisations.",
+    "Information about unpublished creative methods, confidential collaborations, or commercially sensitive tools may require protected handling.",
+    "The evidence does not establish whether or how disclosed AI use should affect artistic assessment or funding eligibility."
+  ],
+  "missing_evidence": [
+    "Direct consultation with Jakarta musicians, composers, performers, producers, recording workers, music educators, venues, community music organisations, and rights holders across genres and working conditions.",
+    "The current Jakarta cultural-grant application, contracting, assessment, reporting, correction, appeal, and data-handling processes.",
+    "A locally tested definition and examples of material generative-AI use across composition, lyrics, arrangement, performance, voice cloning, sound design, mixing, mastering, artwork, promotion, translation, and accessibility.",
+    "Applicant burden and accessibility testing, including effects on independent artists, disabled applicants, applicants with limited digital access or literacy, and small organisations.",
+    "Indonesian legal analysis of copyright, performers' rights, moral rights, personal data, voice or likeness imitation, training data, and contractual liability in generative-AI music workflows.",
+    "Evidence on how disclosure affects assessment consistency, artist behaviour, public trust, cultural diversity, artist income, and participation in grant programmes.",
+    "A proportionate correction, remedy, enforcement, and appeal framework, including treatment of good-faith mistakes and information unavailable from technology providers.",
+    "Rules for confidentiality, trade secrets, unpublished work, sensitive community knowledge, and retention or publication of disclosures."
+  ],
+  "confidence": 0.73,
+  "recommendation": "Require a short, neutral disclosure of material generative-AI use in the proposed artistic work, subject to human approval after local consultation and operational testing. Define material use through music-specific examples and focus on AI that materially shapes artistic expression, authorship, performance or voice identity, curation, dissemination, or rights and consent risks. Exempt or streamline routine supportive uses such as outlining, grammar, plain-language assistance, translation, and accessibility where they do not materially shape the artistic work. Ask applicants to describe the tool's role, affected parts of the work, human creative responsibility, relevant consent and acknowledgement, and rights or provenance information reasonably known to them; do not require inaccessible provider-level information. Keep disclosure separate from any automatic funding penalty, protect confidential information, provide accessible guidance and correction and appeal routes, and review the rule with affected Jakarta music stakeholders before implementation."
+}

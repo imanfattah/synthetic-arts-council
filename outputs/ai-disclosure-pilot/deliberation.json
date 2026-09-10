@@ -1,0 +1,55 @@
+{
+  "case": "SAC-JKT-AI-DISCLOSURE-001",
+  "agreement": [
+    "All six committees support a disclosure requirement only with conditions.",
+    "Disclosure should be concise, neutral, accessible, proportionate, and limited to material uses of generative AI.",
+    "Routine administrative, translation, accessibility, grammar, and minor editing assistance should be exempted or handled through simplified disclosure when it does not materially shape the work.",
+    "Applicants should report AI roles and impacts, human creative control, consent and acknowledgement, and rights or provenance information reasonably within their knowledge and control.",
+    "Disclosure must not operate as an automatic funding penalty, finding of infringement, rights clearance, or substitute for legal review and stakeholder consultation.",
+    "Assessment must remain human-led, with guidance, confidentiality protection, good-faith correction, appeal, and proportionate remedies.",
+    "Jakarta stakeholder co-design and operational testing are required before any real adoption."
+  ],
+  "disagreement": [
+    "Committees place different weight on discipline-specific risks: music prioritizes voice and sound-role attribution; theatre emphasizes evolving ensemble processes; dance emphasizes movement and embodied authorship; film emphasizes digital replicas, production stages, and archives; literature emphasizes translation and expressive text; visual arts emphasizes cultural data, style, fabrication, and curation.",
+    "Film proposes staged disclosure at application and final reporting, while other committees mention updates or final notices without converging on one reporting schedule.",
+    "Literature and visual arts explicitly raise audience-facing notice design; the other committees focus primarily on funder-facing disclosure.",
+    "No shared operational threshold for material use emerged from the evidence pack."
+  ],
+  "cross_disciplinary_effects": [
+    "Multidisciplinary work may require one disclosure to cover text, image, sound, movement, performance, identity, curation, and dissemination without duplicative forms.",
+    "Voice, likeness, movement, style, cultural heritage, and community-held knowledge can cross committee boundaries and require consent and attribution review.",
+    "Translation and accessibility uses can broaden participation across disciplines but could be burdened by an undifferentiated disclosure rule.",
+    "Provider-controlled training information is often unavailable to applicants across all disciplines, so attestation should be limited to reasonable knowledge."
+  ],
+  "missing_evidence": [
+    "Direct Jakarta stakeholder consultation across all six disciplines.",
+    "Existing Jakarta grant application, assessment, contracting, reporting, correction, appeal, and data-handling mechanics.",
+    "A locally tested cross-disciplinary definition of material generative-AI use with discipline-specific examples.",
+    "Applicant burden, accessibility, digital-literacy, and compliance-cost testing.",
+    "Current Indonesian legal analysis specific to AI-assisted authorship, training data, performers' rights, identity imitation, privacy, contracts, and liability.",
+    "Evidence about effects on assessment consistency, applicant behaviour, participation, artistic freedom, trust, welfare, and grant outcomes.",
+    "A tested framework for confidentiality, correction, enforcement, appeal, and proportional remedies."
+  ],
+  "missing_stakeholders": [
+    "Jakarta artists and cultural workers across music, theatre, dance, film, literature, and visual arts.",
+    "Disabled, multilingual, community-based, informal, and low-resource applicants.",
+    "Performers and people whose voice, likeness, movement, identity, or work may be simulated.",
+    "Rights holders, cultural-heritage custodians, source communities, and holders of traditional cultural expressions.",
+    "Grant assessors, administrators, legal advisers, archivists, accessibility practitioners, audiences, and technology vendors."
+  ],
+  "majority_direction": "unanimous_support_with_conditions",
+  "minority_positions": [],
+  "recommendation": "For this simulation, require a short, neutral disclosure of material generative-AI use in funded artistic work, but do not implement a real rule until Jakarta stakeholders co-design and test it. Define materiality by substantive effect on expression, authorship, represented identity, consent, rights, curation, fabrication, or public presentation. Exempt or simplify routine administrative and accessibility assistance; request only information reasonably known or controlled by applicants; allow updates and good-faith correction; protect confidential information; keep assessment human-led; and establish guidance, appeal, and proportionate remedies. Treat disclosure as information for accountable assessment, not as a ban, automatic penalty, proof of infringement, or substitute for consultation and legal analysis.",
+  "conditions": [
+    "Complete direct Jakarta stakeholder consultation and co-design.",
+    "Define and test material use with general and discipline-specific examples.",
+    "Separate minor assistive uses from substantive creative generation.",
+    "Limit applicant attestations to reasonably known and controlled information.",
+    "Keep grant assessment and decisions human-led.",
+    "Protect confidential information and sensitive cultural knowledge.",
+    "Create correction, update, appeal, enforcement, and proportional-remedy procedures.",
+    "Test accessibility, administrative burden, assessor consistency, and unintended bias before adoption.",
+    "Review current Indonesian law separately; do not import foreign legal conclusions."
+  ],
+  "confidence": 0.74
+}

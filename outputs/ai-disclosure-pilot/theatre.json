@@ -1,0 +1,61 @@
+{
+  "committee": "theatre",
+  "position": "support_with_conditions",
+  "evidence": [
+    "EV-002",
+    "EV-003",
+    "EV-004",
+    "EV-005",
+    "EV-006",
+    "EV-007",
+    "EV-009",
+    "EV-010",
+    "EV-011",
+    "EV-016",
+    "EV-018",
+    "EV-019",
+    "EV-020",
+    "EV-021"
+  ],
+  "interpretation": [
+    "A disclosure requirement is consistent with the Indonesian ethical values of transparency, accountability, humanity, accessibility, intellectual-property protection, and sustainability, but the frozen evidence does not itself establish the appropriate Jakarta grant procedure (EV-002, EV-003).",
+    "Operational arts-funder precedents show that disclosure can address an AI system's role, impacts, authorship, consent, rights, bias, and privacy without treating every supportive use as materially equivalent or prohibiting experimentation (EV-005, EV-006, EV-007, EV-009, EV-010, EV-011).",
+    "For theatre, disclosure should distinguish assistive uses from uses materially shaping dramatic text, dramaturgy, design, performance, curation, dissemination, or identity imitation; comparative evidence supports distinguishing human-authored expression, outputs, training inputs, and digital replicas, but does not settle Indonesian copyright treatment (EV-004, EV-020, EV-021).",
+    "Applicants may not possess model-level training or provenance information, so the programme should request information reasonably known or controlled by the applicant rather than require unsupported certainty (EV-019).",
+    "Disclosure should be designed so that artistic and fictional presentation is not burdened unnecessarily, while still enabling grant accountability and informed consideration of consent and rights (EV-018).",
+    "Unequal digital access and skills make guidance, accessible forms, and capacity support relevant conditions of fair implementation (EV-016)."
+  ],
+  "stakeholders_considered": [
+    "theatre artists and cultural workers",
+    "playwrights and dramaturgs",
+    "directors, performers, designers, and technical artists",
+    "producers, venues, and presenting organisations",
+    "theatre educators and students",
+    "grant applicants",
+    "grant assessors and administrators",
+    "audiences and participating communities",
+    "rights holders and people whose identity, voice, likeness, or work may be used",
+    "cultural-heritage custodians and source communities",
+    "technology providers"
+  ],
+  "concerns": [
+    "An undefined material-use threshold could capture routine outlining, grammar, translation, or accessibility assistance and create disproportionate burden (EV-006, EV-009).",
+    "A one-time application disclosure may not reflect changes during rehearsal, devising, production, or dissemination; the frozen evidence does not establish an appropriate update mechanism.",
+    "Disclosure alone does not establish consent, rights clearance, fair attribution, privacy protection, or protection against identity imitation (EV-007, EV-021).",
+    "Applicants may be unable to identify proprietary training sources or model-level provenance, limiting the accuracy of required declarations (EV-019).",
+    "Overbroad disclosure or punitive enforcement could chill artistic experimentation, including fictional and performative uses, if context and proportionality are ignored (EV-010, EV-011, EV-018).",
+    "Foreign precedents are informative but do not establish Jakarta theatre-sector preferences, readiness, law, or administrative capacity (EV-005, EV-010, EV-018, EV-020)."
+  ],
+  "missing_evidence": [
+    "Direct consultation with Jakarta theatre artists and workers, including playwrights, directors, performers, designers, dramaturgs, producers, venue operators, educators, independent and community-based practitioners, disabled artists, and artists working in local languages",
+    "Consultation with rights holders, cultural-heritage custodians, source communities, audiences, and people whose voice, likeness, movement, or identity could be simulated",
+    "The existing Jakarta cultural-grant application, contracting, monitoring, reporting, correction, and appeal mechanics",
+    "A locally tested definition of material use across theatre development, rehearsal, design, performance, documentation, marketing, translation, surtitling, and accessibility",
+    "Applicant burden and accessibility testing, including effects on small, informal, and low-resource theatre groups",
+    "Indonesian legal analysis of AI-assisted authorship, training data, imitation, performer identity, privacy, consent, and liability",
+    "A proportionate approach to confidential tools, trade secrets, inaccessible training-data information, good-faith correction, enforcement, and remedies",
+    "Evidence on how disclosure would affect artistic freedom, artist welfare, cultural diversity, audience understanding, administrative cost, and grant outcomes in Jakarta"
+  ],
+  "confidence": 0.78,
+  "recommendation": "Require concise, plain-language disclosure of material generative-AI uses in funded theatre work, subject to human review and consultation. Define material use by its substantive effect on creative expression, performance, identity imitation, curation, or dissemination; exempt or simplify disclosure for routine administrative and accessibility assistance; ask only for information reasonably known or controlled by applicants; allow updates as productions evolve and good-faith correction without automatic disqualification; and include fields for role, affected elements, human creative control, consent, attribution, rights, privacy, and anticipated impacts. Pilot and accessibility-test the mechanism with Jakarta theatre stakeholders before adoption, publish guidance and examples, and separately design proportionate assessment, appeal, enforcement, and remedy rules. Disclosure must not be treated as proof of wrongdoing, rights clearance, or grounds for an automatic funding penalty."
+}

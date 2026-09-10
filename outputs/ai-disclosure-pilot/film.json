@@ -1,0 +1,64 @@
+{
+  "committee": "film",
+  "position": "support_with_conditions",
+  "evidence": [
+    "EV-002",
+    "EV-004",
+    "EV-005",
+    "EV-006",
+    "EV-007",
+    "EV-009",
+    "EV-010",
+    "EV-011",
+    "EV-016",
+    "EV-018",
+    "EV-019",
+    "EV-020",
+    "EV-021"
+  ],
+  "interpretation": [
+    "A disclosure requirement is consistent with Indonesian AI ethics values of transparency, accountability, inclusivity, accessibility, intellectual-property protection, and sustainability, but those values do not by themselves determine the rule's scope or burden [EV-002].",
+    "A public arts fund can ask applicants to describe AI's role, impacts, rights, consent, authorship, and acknowledgements without treating disclosure as a prohibition; operational arts-funder precedent exists, although it is not binding in Jakarta [EV-005, EV-007].",
+    "The threshold should distinguish materially expressive or identity-related uses from routine assistance such as outlining, grammar, plain-language work, and translation, because comparative evidence recognizes supportive and accessibility-related benefits as well as risks [EV-006, EV-009, EV-020, EV-021].",
+    "For film, disclosure should be proportionate to context and should not unnecessarily interfere with exhibition or audience experience; the EU comparator demonstrates that artistic presentation can justify tailored disclosure even though its legal scope is narrower and foreign [EV-018].",
+    "Applicants may not possess model-level provenance or training-data information, so the programme should request information within their knowledge and control rather than transfer provider obligations wholesale to filmmakers [EV-019].",
+    "Existing copyright obligations remain relevant, but the frozen evidence does not resolve Indonesian questions of AI authorship, training data, imitation, or liability [EV-004].",
+    "Disclosure design should preserve experimentation and human creativity while addressing fairness, transparency, consent, cultural diversity, artist protection, and unequal digital access [EV-010, EV-011, EV-016]."
+  ],
+  "stakeholders_considered": [
+    "filmmakers and screen artists",
+    "performers and people whose voice, face, movement, or identity may be represented",
+    "producers and production companies",
+    "editors, visual-effects artists, animators, sound workers, translators, and other film crews",
+    "grant applicants",
+    "grant assessors and programme administrators",
+    "audiences and participating communities",
+    "rights holders",
+    "exhibitors and distributors",
+    "film archives and preservation practitioners",
+    "film educators and students",
+    "technology providers"
+  ],
+  "concerns": [
+    "An undefined material-use threshold could capture ordinary production assistance, accessibility work, or low-impact post-production and create disproportionate administrative burden.",
+    "A single application-stage disclosure may not capture changes in tools or creative methods during development, production, post-production, restoration, distribution, or exhibition.",
+    "Requiring applicants to identify inaccessible training sources or disclose confidential production workflows could make compliance impossible or inequitable.",
+    "Disclosure alone does not establish consent, rights clearance, authorship, fairness, or remedy, and could be mistaken for substantive compliance.",
+    "Public-facing disclosure that is too prominent or technically detailed may disrupt artistic presentation, while disclosure that is too vague may fail audiences, assessors, performers, and rights holders.",
+    "Smaller, independent, community-based, and accessibility-focused applicants may face unequal compliance burdens if guidance and support are not provided."
+  ],
+  "missing_evidence": [
+    "Direct consultation with Jakarta filmmakers, performers, film crews, exhibitors, distributors, archives, educators, audiences, disability-access practitioners, and relevant worker or professional associations.",
+    "Current Jakarta cultural-grant application, contracting, reporting, audit, correction, appeal, and remedy processes.",
+    "A locally tested definition of material generative-AI use across development, production, performance capture, visual effects, animation, sound, dubbing, subtitling, restoration, marketing, distribution, and exhibition.",
+    "Evidence on consent and rights practices for synthetic or imitative uses of a person's face, voice, movement, performance, or identity in the Indonesian film context.",
+    "Evidence on Indonesian copyright, performers' rights, moral rights, privacy, personal-data, labour, and contractual implications specific to generative AI in film.",
+    "Applicant burden and accessibility testing, including the needs of small productions, community filmmakers, disabled applicants, and applicants with limited digital access or AI literacy.",
+    "A workable treatment of confidential tools, trade secrets, third-party vendors, and training-data information unavailable to applicants.",
+    "Evidence on how disclosure should be updated when AI use changes after application and how disclosures should appear to assessors, funders, workers, rights holders, and audiences.",
+    "Evidence on film-archive restoration, preservation, provenance, and historical-record risks where generative AI is used.",
+    "Evidence on enforcement, good-faith correction, proportional remedies, and safeguards against disclosure becoming an automatic negative assessment factor."
+  ],
+  "confidence": 0.74,
+  "recommendation": "Require a short, proportionate disclosure of material generative-AI use in funded film work, subject to human review and a Jakarta stakeholder-design process before adoption. Define material use by its effect on expressive content, represented identity, rights, consent, provenance, or funded production decisions; exclude or streamline routine administrative and assistive uses unless they materially shape the work. Use staged disclosure at application and final reporting, allow good-faith updates, request only information reasonably within the applicant's knowledge and control, protect confidential information, provide accessible guidance, and prevent disclosure alone from operating as a ban or automatic negative assessment. Separate the disclosure from substantive rights, consent, labour, privacy, and copyright compliance, and establish correction, appeal, and proportional-remedy procedures before implementation."
+}

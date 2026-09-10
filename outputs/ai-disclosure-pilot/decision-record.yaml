@@ -1,0 +1,64 @@
+decision_id: DEC-SAC-JKT-AI-DISCLOSURE-001
+case: SAC-JKT-AI-DISCLOSURE-001
+question: Should a hypothetical Jakarta public cultural-grant programme require applicants to disclose material uses of generative AI in funded artistic work?
+evidence_used:
+  - EV-002
+  - EV-003
+  - EV-004
+  - EV-005
+  - EV-006
+  - EV-007
+  - EV-008
+  - EV-009
+  - EV-010
+  - EV-011
+  - EV-012
+  - EV-013
+  - EV-014
+  - EV-015
+  - EV-016
+  - EV-017
+  - EV-018
+  - EV-019
+  - EV-020
+  - EV-021
+committee_positions:
+  music: support_with_conditions
+  theatre: support_with_conditions
+  dance: support_with_conditions
+  film: support_with_conditions
+  literature: support_with_conditions
+  visual-arts: support_with_conditions
+areas_of_agreement:
+  - Require only concise and proportionate disclosure of material use.
+  - Distinguish substantive creative uses from routine administrative and accessibility assistance.
+  - Keep decisions human-led and disclosure non-punitive by default.
+  - Require stakeholder co-design and operational testing before real adoption.
+areas_of_dissent:
+  - Discipline-specific emphasis differs across identity, movement, voice, text, archives, style, fabrication, and curation.
+  - No common reporting schedule or materiality threshold was established.
+  - Audience-facing disclosure was not equally emphasized by all committees.
+missing_evidence:
+  - Direct Jakarta stakeholder evidence
+  - Existing local grant mechanics
+  - Tested material-use definition
+  - Administrative burden and accessibility testing
+  - Current Indonesian AI-specific legal analysis
+  - Enforcement, correction, appeal, and remedy design
+missing_stakeholders:
+  - Jakarta artists and cultural workers across all six disciplines
+  - Disabled, multilingual, informal, community-based, and low-resource applicants
+  - Rights holders, performers, cultural custodians, source communities, assessors, administrators, and audiences
+recommendation: Require a short and neutral material-use disclosure only as a simulated recommendation. Before any real adoption, co-design and test it with Jakarta stakeholders, define materiality, protect accessibility and confidentiality, limit attestations to reasonable knowledge, keep decisions human-led, and establish correction, appeal, and proportionate remedies.
+conditions:
+  - Complete local consultation and co-design.
+  - Define material use with cross-disciplinary and discipline-specific examples.
+  - Exempt or simplify non-material assistive uses.
+  - Do not treat disclosure as automatic ineligibility or proof of infringement.
+  - Establish human assessment, confidentiality, correction, appeal, and proportionate remedies.
+  - Review applicable Indonesian law separately.
+confidence: 0.74
+human_review: required
+institutional_status: recommendation_ready
+simulation_only: true
+authority_claimed: false

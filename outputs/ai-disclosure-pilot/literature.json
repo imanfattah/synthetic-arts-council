@@ -1,0 +1,64 @@
+{
+  "committee": "literature",
+  "position": "support_with_conditions",
+  "evidence": [
+    "EV-002",
+    "EV-004",
+    "EV-005",
+    "EV-006",
+    "EV-007",
+    "EV-009",
+    "EV-010",
+    "EV-011",
+    "EV-012",
+    "EV-013",
+    "EV-014",
+    "EV-015",
+    "EV-016",
+    "EV-018",
+    "EV-019",
+    "EV-020",
+    "EV-021"
+  ],
+  "interpretation": [
+    "A proportionate disclosure requirement is consistent with Indonesian AI-ethics values of transparency, accountability, accessibility, sustainability, and intellectual-property protection, although the national circular does not itself create an arts-grant disclosure obligation (EV-002).",
+    "Literary practice requires a distinction between materially expressive uses of generative AI and supportive uses such as outlining, grammar, plain-language adaptation, and translation; the latter may reduce barriers and should not automatically disadvantage an application (EV-006, EV-009, EV-020).",
+    "The disclosure should capture AI's role in creation, curation, publication, or dissemination and invite relevant information about authorship, consent, rights, bias, privacy, and acknowledged contributions without presuming that applicants can identify model-level training data unavailable to them (EV-005, EV-007, EV-019, EV-021).",
+    "Publishing-sector precedent shows that programme-specific thresholds and disclosure fields are operationally possible, but an Australian fund's exclusion of substantially AI-created books does not justify importing the same eligibility rule into a Jakarta programme (EV-012).",
+    "Disclosure may help assess risks to originality, authentic voice, cultural diversity, consent, credit, and artist welfare, but the cited artist evidence is not representative of Jakarta and does not establish that disclosure alone prevents those harms (EV-013, EV-014, EV-015, EV-016).",
+    "Any public-facing disclosure should be concise and contextual so that it informs audiences without impairing the display or enjoyment of literary and artistic work (EV-011, EV-018).",
+    "Existing Indonesian copyright obligations remain relevant, but the frozen evidence does not resolve AI authorship, training-data legality, stylistic imitation, or liability under Indonesian law (EV-004)."
+  ],
+  "stakeholders_considered": [
+    "writers, poets, playwrights, and other literary creators",
+    "translators, editors, and sensitivity or language readers",
+    "publishers and literary journals",
+    "libraries, literary archives, and literature educators",
+    "grant applicants, assessors, and administrators",
+    "readers, audiences, and participating communities",
+    "rights holders and creators whose works may be used in AI systems",
+    "disabled, multilingual, and digitally underserved applicants",
+    "technology providers"
+  ],
+  "concerns": [
+    "An undefined materiality threshold could produce inconsistent reporting across drafting, editing, translation, research, and publication workflows.",
+    "A burdensome disclosure could penalize applicants who use AI for accessibility or language support, or who lack technical knowledge about their tools.",
+    "Applicants may be unable to verify proprietary training sources, so requiring definitive provenance claims could be impossible or misleading.",
+    "Disclosure could become a proxy ban or stigma rather than contextual information for human assessment.",
+    "A single project-level answer may obscure different roles played by authors, translators, editors, publishers, and AI tools.",
+    "Unclear correction, appeal, confidentiality, and proportional-remedy procedures could create avoidable risk for applicants.",
+    "Public disclosure that is too prominent or technically detailed could interfere with artistic presentation and audience experience."
+  ],
+  "missing_evidence": [
+    "Direct consultation with Jakarta writers, translators, editors, publishers, librarians, literary archivists, educators, and literary communities, including disabled and multilingual practitioners.",
+    "The existing Jakarta cultural-grant application, assessment, contracting, reporting, and appeals workflow.",
+    "User testing of disclosure language, accessibility, completion time, and administrative burden across literary practices and levels of digital literacy.",
+    "A locally appropriate definition and examples of material generative-AI use for research, drafting, rewriting, translation, editing, illustration, narration, publication, and dissemination.",
+    "Indonesian legal analysis of AI-assisted authorship, training data, imitation, moral rights, licensing, and liability.",
+    "Evidence on how assessors would use disclosed information consistently and without categorical bias.",
+    "Design evidence for confidential information, inaccessible model provenance, corrections, appeals, and proportional remedies.",
+    "Jakarta-specific evidence on benefits, harms, prevalence, and distributional effects of generative AI in literary work."
+  ],
+  "confidence": 0.78,
+  "recommendation": "Require a short, neutral disclosure of material generative-AI use in funded literary work, subject to human review and a pilot evaluation. Define material use with discipline-specific examples; distinguish assistive accessibility, grammar, plain-language, research, and translation uses from AI-generated expressive content; ask what tool was used, where and for what purpose, what human creative control remained, and any known rights, consent, attribution, privacy, or cultural-diversity implications. Do not require applicants to attest to inaccessible training-data facts, do not treat disclosure as automatic ineligibility, protect legitimately confidential information, and establish correction, appeal, and proportional-remedy procedures. Co-design and test the rule with the missing Jakarta stakeholders before adoption, and keep any audience-facing notice concise and appropriate to the work's context."
+}

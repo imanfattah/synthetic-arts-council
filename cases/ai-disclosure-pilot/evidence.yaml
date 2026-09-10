@@ -195,9 +195,9 @@ evidence_pack:
   shared_across_committees: true
   committee_private_research_allowed: false
   candidate_items: 21
-  review_status: pending
-  reviewer: TBD
-  reviewed_at: TBD
+  review_status: approved
+  reviewer: Iman Fattah
+  reviewed_at: "2026-09-10"
   unresolved_gaps:
     - Direct consultation with Jakarta artists and cultural workers across all six disciplines
     - Existing Jakarta cultural-grant application and reporting mechanics

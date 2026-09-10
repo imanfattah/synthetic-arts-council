@@ -1,7 +1,7 @@
 # Human evidence review gate
 
 Date prepared: 2026-09-10  
-Status: **Pending**
+Status: **Approved for simulated methodological test by Iman Fattah on 2026-09-10**
 
 ## Pack summary
 
@@ -30,12 +30,12 @@ The pack is stronger on institutional and international policy than on direct Ja
 
 ## Human review checklist
 
-- [ ] Source identities and URLs are acceptable.
-- [ ] Indonesian sources are not overstated as AI-specific arts-grant law.
-- [ ] Foreign sources are clearly marked as comparators.
-- [ ] UNESCO Spain findings are not generalized to Jakarta.
-- [ ] Evidence and interpretation remain separate.
-- [ ] The six unresolved gaps are visible.
-- [ ] The pack is adequate for a simulated deliberation, not a real policy decision.
+- [x] Source identities and URLs are acceptable.
+- [x] Indonesian sources are not overstated as AI-specific arts-grant law.
+- [x] Foreign sources are clearly marked as comparators.
+- [x] UNESCO Spain findings are not generalized to Jakarta.
+- [x] Evidence and interpretation remain separate.
+- [x] The six unresolved gaps are visible.
+- [x] The pack is adequate for a simulated deliberation, not a real policy decision.
 
 Approval action: change both `case.yaml` → `evidence_review.status` and `evidence.yaml` → `evidence_pack.review_status` to `approved`, add the human reviewer's name and date, and set `deliberation.may_begin` to `true`.

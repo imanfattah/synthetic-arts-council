@@ -1,0 +1,65 @@
+{
+  "committee": "visual-arts",
+  "position": "support_with_conditions",
+  "evidence": [
+    "EV-002",
+    "EV-004",
+    "EV-005",
+    "EV-006",
+    "EV-007",
+    "EV-009",
+    "EV-010",
+    "EV-011",
+    "EV-013",
+    "EV-014",
+    "EV-015",
+    "EV-016",
+    "EV-018",
+    "EV-019",
+    "EV-020",
+    "EV-021"
+  ],
+  "interpretation": [
+    "EV-002 supports transparency, accountability, accessibility, sustainability, and intellectual-property protection as relevant Indonesian ethical values, but it does not prescribe a grant disclosure mechanism.",
+    "EV-005 and EV-007 show that an arts funder can ask applicants to explain AI's role, impacts, rights, consent, authorship, and acknowledgement; this is a useful operational precedent but is not directly transferable to Jakarta.",
+    "EV-006, EV-009, EV-015, and EV-020 support distinguishing assistive uses from uses that materially shape artistic expression, curation, or dissemination. Disclosure should not presume that every AI-assisted practice lacks originality or cultural value.",
+    "EV-010 and EV-011 support clear identification alongside innovation, human creativity, fairness, and consent, but leave the threshold and enforcement design unresolved.",
+    "EV-013, EV-014, and EV-016 identify artist-welfare, cultural-diversity, consent, credit, compensation, displacement, and cultural-data concerns that a disclosure process could make visible, although they do not establish Jakarta preferences or prove that disclosure alone prevents harm.",
+    "EV-018 indicates that disclosure can be tailored so artistic display and enjoyment are not unnecessarily burdened, while EV-019 cautions that applicants may not control model-level provenance or training information.",
+    "EV-004 confirms that existing Indonesian copyright duties remain relevant, but the frozen evidence does not resolve AI authorship, training data, imitation, or liability in visual-arts practice.",
+    "EV-021 supports separating questions about identity or style imitation, creative output, and source or training inputs rather than collapsing them into one declaration."
+  ],
+  "stakeholders_considered": [
+    "visual artists and artist collectives",
+    "curators and independent art workers",
+    "galleries, museums, collections, and public-art commissioners",
+    "art educators and students",
+    "grant applicants, assessors, and administrators",
+    "audiences and participating communities",
+    "copyright holders and other contributors whose works, likenesses, cultural materials, or data may be used",
+    "technology providers"
+  ],
+  "concerns": [
+    "An undefined material-use threshold could chill experimentation or subject routine accessibility, translation, research, and administrative assistance to disproportionate scrutiny.",
+    "A disclosure requirement could become a proxy for aesthetic judgement, presumed inauthenticity, or categorical exclusion rather than a proportionate accountability measure.",
+    "Visual-arts practices involve layered workflows, including reference gathering, image generation, editing, installation, curation, conservation, and dissemination; a single yes-or-no field would obscure materially different uses.",
+    "Applicants may be unable to verify proprietary model training sources or other provider-controlled provenance information.",
+    "Disclosure could expose confidential methods or commercially sensitive practices unless the programme defines what will be public, assessor-only, or protected.",
+    "The evidence does not establish fair correction, appeal, enforcement, or remedy procedures, creating a risk of disproportionate penalties and unequal treatment.",
+    "Administrative burden and uneven digital literacy may disadvantage smaller, informal, disabled, or resource-constrained applicants.",
+    "Disclosure by itself does not establish consent, rights clearance, compensation, cultural appropriateness, or absence of bias."
+  ],
+  "missing_evidence": [
+    "Direct consultation with Jakarta visual artists, curators, art workers, galleries, museums, public-art practitioners, art educators, and artist collectives, including disabled and resource-constrained practitioners.",
+    "Views of communities and cultural custodians whose heritage, traditional cultural expressions, likenesses, or locally held cultural data may be represented or used.",
+    "Existing Jakarta cultural-grant application, assessment, reporting, confidentiality, correction, appeal, and sanctions mechanics.",
+    "A locally tested definition of material generative-AI use across visual-art creation, research, editing, fabrication, curation, conservation, installation, documentation, and dissemination.",
+    "Applicant accessibility, digital-literacy, administrative-burden, and compliance-cost testing.",
+    "Evidence on how disclosure information would affect assessors and whether it could introduce discipline, disability, socioeconomic, or aesthetic bias.",
+    "A proportionate enforcement and remedy model, including inadvertent omission, correction periods, appeal, and treatment of repeated or intentional misrepresentation.",
+    "Rules for confidential tools, trade secrets, commissioned components, third-party workflows, and provider-controlled or inaccessible training-data information.",
+    "Jakarta-specific evidence on rights, consent, credit, compensation, artist income, cultural diversity, environmental cost, and public understanding of AI-assisted visual work."
+  ],
+  "confidence": 0.73,
+  "recommendation": "Require a concise, non-punitive disclosure of material generative-AI use only after consultation and field testing. Define material use as AI involvement that substantially shapes the artistic output, curation, fabrication, or public presentation; exempt or simplify disclosure for routine administrative, accessibility, translation, and minor editing assistance. Use separate prompts for the role of AI, human creative control, source or training information known to the applicant, consent and rights, identity or style imitation, contributor acknowledgement, and foreseeable community impacts. Do not require applicants to attest to provider-controlled facts they cannot reasonably know. Keep assessment human-led, prevent disclosure from operating as an automatic eligibility bar or proxy for artistic merit, protect confidential information, provide guidance and accessible support, and establish correction, appeal, and proportionate-remedy procedures before enforcement. Pilot the form with Jakarta visual-arts stakeholders and revise it before programme-wide adoption."
+}

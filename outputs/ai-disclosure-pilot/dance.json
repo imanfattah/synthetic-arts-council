@@ -1,0 +1,67 @@
+{
+  "committee": "dance",
+  "position": "support_with_conditions",
+  "evidence": [
+    "EV-002",
+    "EV-004",
+    "EV-005",
+    "EV-006",
+    "EV-007",
+    "EV-009",
+    "EV-010",
+    "EV-011",
+    "EV-013",
+    "EV-014",
+    "EV-015",
+    "EV-016",
+    "EV-017",
+    "EV-018",
+    "EV-019",
+    "EV-020",
+    "EV-021"
+  ],
+  "interpretation": [
+    "A disclosure requirement is consistent with Indonesian AI ethics values of transparency, humanity, accountability, accessibility, sustainability, and intellectual-property protection, but those values do not by themselves define a proportionate grant rule (EV-002).",
+    "Arts-funder precedents show that disclosure can ask applicants to explain AI's role, limitations, provenance where known, impacts, authorship, consent, and rights compliance without treating every assistive use as equivalent or prohibiting experimentation (EV-005, EV-006, EV-007, EV-009, EV-010, EV-011).",
+    "For dance, materiality should turn on whether generative AI substantively shapes choreography, performance, curation, dissemination, or representations of performers, rather than on incidental outlining, grammar, translation, or other accessibility-supporting uses; this is a committee inference from cross-disciplinary precedents, not direct Jakarta dance evidence (EV-006, EV-007, EV-020, EV-021).",
+    "Consent, credit, cultural diversity, displacement, income, and devaluation concerns support asking about performer or rights-holder contributions and identity imitation, but the cited artist survey is neither dance-specific nor representative of Jakarta (EV-013, EV-014, EV-021).",
+    "Applicants may not know or control model-level training provenance, so disclosure should distinguish information within an applicant's reasonable knowledge from provider responsibilities and should not demand unverifiable claims (EV-019).",
+    "Unequal digital access and skills make plain-language guidance, accessible formats, and applicant support necessary if disclosure is introduced (EV-016, EV-017).",
+    "Artistic-context tailoring is feasible and important: disclosure should inform grant accountability without unnecessarily interfering with artistic presentation or audience experience (EV-018).",
+    "Existing Indonesian copyright duties remain relevant, but the evidence does not resolve AI authorship, training data, imitation, or liability in Indonesia (EV-004)."
+  ],
+  "stakeholders_considered": [
+    "dancers and performers",
+    "choreographers",
+    "dance companies and independent collectives",
+    "producers and venues",
+    "dance educators and students",
+    "traditional and community-based dance practitioners",
+    "grant applicants",
+    "grant assessors and administrators",
+    "audiences and participating communities",
+    "performers and other rights holders whose movement, image, voice, or work may be used",
+    "technology providers"
+  ],
+  "concerns": [
+    "An undefined material-use threshold could burden small, independent, traditional, or community-based dance applicants and chill legitimate experimentation.",
+    "A text-oriented disclosure form may fail to capture embodied authorship, collaborative choreography, improvisation, rehearsal processes, motion data, or performer likeness and voice.",
+    "Disclosure alone cannot establish consent, lawful use, authorship, provenance, or remedy harm.",
+    "Applicants may be unable to identify proprietary training data or other provider-controlled information.",
+    "Public disclosure could expose confidential artistic methods or force intrusive explanation beyond what grant accountability requires.",
+    "The evidence does not show how Jakarta dance practitioners understand generative AI, what tools they use, or what administrative burden they can absorb.",
+    "The committee does not represent dancers, cultural communities, or Jakarta institutions; human review and direct consultation remain necessary."
+  ],
+  "missing_evidence": [
+    "Direct consultation with Jakarta dancers, choreographers, companies, independent collectives, producers, venues, educators, disability-led practitioners, and traditional or community custodians.",
+    "Dance-specific evidence on generative AI uses in choreography, rehearsal, motion capture, digital replicas, archiving, stage design, music or visual integration, marketing, and accessibility.",
+    "A locally tested definition of material use that distinguishes substantive creative contribution from incidental administrative or accessibility assistance.",
+    "Existing Jakarta cultural-grant application, assessment, contracting, and reporting mechanics.",
+    "Applicant burden and accessibility testing, especially for small organizations and individual or community-based applicants.",
+    "Indonesian legal analysis concerning performer rights, likeness and voice, choreography, traditional cultural expressions, AI training data, authorship, and liability.",
+    "Rules for confidential information, trade secrets, unavailable training-data provenance, correction, appeal, enforcement, and proportionate remedies.",
+    "Evidence that a disclosure requirement would improve grant assessment or reduce identified harms in Jakarta."
+  ],
+  "confidence": 0.68,
+  "recommendation": "Require a short, accessible disclosure of material generative-AI use in funded dance work, subject to human review and co-design with Jakarta dance stakeholders before implementation. The form should distinguish substantive creative uses from incidental administrative or accessibility support; ask for AI's role in choreography, performance, curation, dissemination, and any use of performer movement, likeness, or voice; request consent, attribution, rights, and provenance information only to the extent reasonably known; protect confidential artistic methods; and provide guidance, correction, appeal, and proportionate remedies. Do not treat disclosure as a ban, proof of infringement, or substitute for consultation, consent, or legal assessment. Pilot and evaluate the rule before broader adoption."
+}
