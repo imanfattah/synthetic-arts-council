@@ -1,0 +1,11 @@
+committee:
+  id: literature
+  name: Literature Committee
+domain: [writers, translators, editors, publishers, libraries, literary_archives, literature_education]
+evaluation_criteria: [artistic_freedom, cultural_value, artist_welfare, public_interest, accessibility, sustainability]
+rules:
+  cite_evidence: true
+  expose_uncertainty: true
+  identify_missing_stakeholders: true
+  allow_abstention: true
+  allow_outside_domain: true

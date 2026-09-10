@@ -1,0 +1,16 @@
+evidence:
+  - evidence_id: EV-001
+    source_id: SRC-001
+    claim: TBD
+    excerpt_or_data: TBD
+    context: TBD
+    date: TBD
+    geography: Jakarta
+    reliability: TBD
+    limitations: TBD
+
+allowed_reliability_values:
+  - high
+  - medium
+  - low
+  - unknown

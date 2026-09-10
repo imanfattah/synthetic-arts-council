@@ -1,0 +1,20 @@
+rubric: SAC-V01-PILOT-RUBRIC
+case: SAC-JKT-AI-DISCLOSURE-001
+reviewer: TBD
+reviewed_at: TBD
+scores:
+  citation_validity: TBD
+  evidence_interpretation_separation: TBD
+  domain_discipline: TBD
+  uncertainty_visibility: TBD
+  stakeholder_coverage: TBD
+  disagreement_preservation: TBD
+  evidence_gap_behavior: TBD
+  provenance_reconstructability: TBD
+  human_authority: TBD
+total_score: TBD
+automatic_validation_passed: false
+critical_criteria_passed: false
+result: not_evaluated
+failures: []
+notes: []

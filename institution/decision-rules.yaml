@@ -1,0 +1,34 @@
+allowed_positions:
+  - support
+  - support_with_conditions
+  - oppose
+  - abstain
+  - insufficient_evidence
+  - outside_domain
+
+institutional_states:
+  - open
+  - under_review
+  - deliberating
+  - recommendation_ready
+  - human_review
+  - closed
+  - deferred
+  - rejected
+
+rules:
+  shared_evidence_bundle: true
+  independent_initial_positions: true
+  evidence_required_for_substantive_claims: true
+  preserve_minority_positions: true
+  expose_uncertainty: true
+  identify_missing_stakeholders: true
+  allow_abstention: true
+  allow_outside_domain: true
+  human_review_required: true
+  model_may_set_final_institutional_state: false
+
+evidence_gate:
+  action_when_insufficient: return_to_evidence
+  minimum_confidence: TBD
+  minimum_source_requirements: TBD

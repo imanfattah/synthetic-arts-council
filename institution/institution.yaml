@@ -1,0 +1,22 @@
+institution:
+  id: sac-jakarta-reference
+  name: Synthetic Arts Council — Jakarta Reference
+  institution_type: simulation
+  jurisdiction: Jakarta
+  country: Indonesia
+  authority: none
+  reference_institution: Dewan Kesenian Jakarta
+  representation_claim: false
+  status: experimental
+
+human_authority:
+  required: true
+  reviewer: TBD
+
+committees:
+  - music
+  - theatre
+  - dance
+  - film
+  - literature
+  - visual-arts

@@ -1,0 +1,8 @@
+evidence: []
+
+evidence_pack:
+  shared_across_committees: true
+  committee_private_research_allowed: false
+  review_status: pending
+  reviewer: TBD
+  reviewed_at: TBD

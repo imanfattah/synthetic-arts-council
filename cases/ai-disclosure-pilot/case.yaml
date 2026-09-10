@@ -1,0 +1,26 @@
+case_id: SAC-JKT-AI-DISCLOSURE-001
+title: Generative AI disclosure in a hypothetical public cultural-grant programme
+question: Should a hypothetical Jakarta public cultural-grant programme require applicants to disclose material uses of generative AI in funded artistic work?
+jurisdiction: Jakarta
+submitted_by: simulation
+status: open
+simulation_only: true
+relevant_mandate:
+  - Experimental mandate in institution/mandate.md
+stakeholders:
+  - artists and cultural workers
+  - grant applicants
+  - grant assessors and administrators
+  - audiences and participating communities
+  - rights holders
+  - technology providers
+missing_stakeholders:
+  - To be assessed during evidence review
+evidence: []
+evidence_review:
+  status: pending
+  reviewer: TBD
+  reviewed_at: TBD
+deliberation:
+  may_begin: false
+  reason: Shared evidence pack has not yet been researched and human-reviewed.

@@ -1,0 +1,19 @@
+sources:
+  - source_id: SRC-001
+    title: TBD
+    publisher: TBD
+    url: TBD
+    publication_date: TBD
+    retrieved_at: TBD
+    source_type: institutional_record
+    jurisdiction: Jakarta
+
+allowed_source_types:
+  - regulation
+  - government_data
+  - research
+  - stakeholder_submission
+  - public_consultation
+  - institutional_record
+  - news
+  - other
