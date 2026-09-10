@@ -3,7 +3,7 @@ title: Generative AI disclosure in a hypothetical public cultural-grant programm
 question: Should a hypothetical Jakarta public cultural-grant programme require applicants to disclose material uses of generative AI in funded artistic work?
 jurisdiction: Jakarta
 submitted_by: simulation
-status: recommendation_ready
+status: closed
 simulation_only: true
 relevant_mandate:
   - Experimental mandate in institution/mandate.md
@@ -47,3 +47,13 @@ deliberation:
   completed: true
   completed_at: "2026-09-10"
   reason: Evidence pack approved for simulation and six independent committee positions completed.
+human_review:
+  status: completed
+  reviewer: Iman Fattah
+  reviewed_at: "2026-09-10"
+  judgment: pass_with_reservations
+  reservations:
+    - Committee outputs were too convergent.
+    - Discipline-specific distinctions need strengthening.
+    - Absence of direct Jakarta stakeholder evidence remains a central limitation.
+closure_scope: Methodological experiment only; no institutional policy decision made.

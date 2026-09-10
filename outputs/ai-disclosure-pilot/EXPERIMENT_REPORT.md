@@ -2,7 +2,7 @@
 
 Date: 2026-09-10  
 Case: `SAC-JKT-AI-DISCLOSURE-001`  
-Status: **Recommendation ready; human review required**
+Status: **Closed — pass with reservations**
 
 ## Question
 
@@ -49,6 +49,8 @@ The validator also did not initially confirm that evidence IDs cited by committe
 
 The evidence is stronger on institutional and international policy than on Jakarta stakeholder experience. No inference should be made that Jakarta artists, an arts council, or a public authority endorses this result. Foreign law remains comparative only, and the Indonesian sources do not settle AI-specific arts questions.
 
-## Provisional evaluation
+## Human evaluation
 
-The run provisionally meets the v0.1 methodological threshold: its evidence trail, interpretations, discipline-specific positions, disagreement, gaps, correction history, and institutional state can be reconstructed. Human review is still required before the experiment is marked complete.
+Iman Fattah reviewed the run on 2026-09-10 and recorded **PASS WITH RESERVATIONS**. The evidence trail, interpretations, positions, disagreement, gaps, correction history, and institutional state can be reconstructed. However, the committee outputs were too convergent, discipline-specific differentiation needs strengthening, and the absence of direct Jakarta stakeholder evidence remains a central limitation.
+
+This judgment closes the methodological test only. It does not approve, adopt, or represent an institutional policy position.

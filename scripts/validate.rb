@@ -129,7 +129,10 @@ end
 Dir[File.join(ROOT, "**", "*.yaml")].sort.each do |path|
   data = load_yaml(path, errors)
   next unless data.key?("decision_id")
-  errors << "#{path}: human_review must be required" unless data["human_review"] == "required"
+  human_review = data["human_review"]
+  valid_human_review = human_review == "required" ||
+    (human_review.is_a?(Hash) && human_review["status"] == "completed" && !human_review["reviewer"].to_s.empty? && !human_review["judgment"].to_s.empty?)
+  errors << "#{path}: human_review must be required or a completed review record" unless valid_human_review
   confidence = data["confidence"]
   errors << "#{path}: confidence must be between 0 and 1" unless confidence.is_a?(Numeric) && confidence.between?(0, 1)
   state = data["institutional_status"]

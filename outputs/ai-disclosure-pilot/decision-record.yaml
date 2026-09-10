@@ -58,7 +58,17 @@ conditions:
   - Establish human assessment, confidentiality, correction, appeal, and proportionate remedies.
   - Review applicable Indonesian law separately.
 confidence: 0.74
-human_review: required
-institutional_status: recommendation_ready
+human_review:
+  status: completed
+  reviewer: Iman Fattah
+  reviewed_at: "2026-09-10"
+  judgment: pass_with_reservations
+  scope: Methodological experiment only; not approval or adoption of the simulated policy recommendation.
+  reservations:
+    - Committee outputs were too convergent.
+    - Discipline-specific distinctions need strengthening.
+    - Absence of direct Jakarta stakeholder evidence remains a central limitation.
+institutional_status: closed
 simulation_only: true
 authority_claimed: false
+closure_scope: Methodological test completed; no institutional policy decision made.
